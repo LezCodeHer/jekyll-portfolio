@@ -78,7 +78,7 @@ a {
 .intro-text h2{
 	/* color: #f8f8f8; */
 	/* color: #aea9c4a8; */
-	color: #fcedd696;
+	color: #c1b8f596;
 	font-size: 50px;
 	opacity: 0.8;
 }
@@ -89,12 +89,16 @@ a {
 }
 .highlight{
 	/* color: #752f7e; */
-	color: #fcedd6;
+	color: #d6e3fc;
 	
 }
+.highlight .letter{
+display: inline-block;
+}
+
 .intro-button{
 	padding: 2% 2%;
-	/* border: 3px solid #e0ccc8; */
+	border: 3px solid #e0ccc8;
 	letter-spacing: 0.2em;
 	text-decoration: none;
 	color: #e0ccc8;
@@ -196,7 +200,7 @@ h1 {
 	color: #192231;
 }
 .profile-img{
-	height: 400px;
+	height: 300px;
 	margin-left: 80px;
 }
 

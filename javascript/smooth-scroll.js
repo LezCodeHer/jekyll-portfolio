@@ -1,11 +1,3 @@
-/*!
- * smooth-scroll v16.0.0
- * Animate scrolling to anchor links
- * (c) 2019 Chris Ferdinandi
- * MIT License
- * http://github.com/cferdinandi/smooth-scroll
- */
-
 (function (root, factory) {
 	if (typeof define === 'function' && define.amd) {
 		define([], (function () {
